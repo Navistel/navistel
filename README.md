@@ -5,7 +5,7 @@
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled115_20260907214457.png" width=500></br>
   
   ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞㅤㅤㅤㅤʚ[`Ata`](https://navistel.atabook.org/)ɞㅤㅤㅤㅤʚ[`Click 2x`](https://arab.org/click-to-help/palestine/)ɞ</br>
-ʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞㅤㅤㅤㅤʚ[`2`](https://fluffle.cc/trulydancae)ɞ
+  ㅤㅤʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤʚ[`2`](https://fluffle.cc/trulydancae)ɞ
   <details>
     <summary>Mentions!</summary>
     
