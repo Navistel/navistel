@@ -4,8 +4,11 @@
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled115_20260907214356.png" width=600></br>
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled115_20260907214457.png" width=500></br>
 
-ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞ   ʚ[`Ata`](https://navistel.atabook.org/)ɞ   ʚ[`Click 2x`](https://arab.org/click-to-help/palestine/)ɞ</br>
-ㅤㅤʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞ   ʚ[`2`](https://fluffle.cc/trulydancae)ɞ
+ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞ
+   ʚ[`Ata`](https://navistel.atabook.org/)ɞ
+   ʚ[`Click2x`](https://arab.org/click-to-help/palestine/)ɞ</br>
+ʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞ
+     ʚ[`2`](https://fluffle.cc/trulydancae)ɞ
   <details>
     <summary>Mentions!</summary>
     
