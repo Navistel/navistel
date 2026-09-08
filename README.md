@@ -5,7 +5,7 @@
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled115_20260907214457.png" width=500></br>
   
   ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞㅤㅤㅤㅤʚ[`Ata`](https://navistel.atabook.org/)ɞㅤㅤㅤㅤʚ[`Click 2x`](https://arab.org/click-to-help/palestine/)ɞ</br>
-  ʚ[`1`](https://fluffle.cc/trulydancae)ɞㅤㅤㅤㅤʚ[`2`](https://fluffle.cc/trulyhaikaveh)ɞㅤㅤㅤㅤʚ[`3`](https://fluffle.cc/zycalderaeta)ɞ
+  ʚ[`1`](https://fluffle.cc/trulydancae)ɞㅤㅤㅤㅤʚ[`2`](https://fluffle.cc/trulyhaikaveh)ɞ
   <details>
     <summary>Mentions!</summary>
     
@@ -15,6 +15,8 @@
     [Ship town](https://github.com/ship-town)</br>
     I mightve missed some
   </details></br>
+  
+  ʚ[`The gang`](https://fluffle.cc/zycalderaeta)ɞ</br>
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled115_20260907214447.png" width=300></br>
   
   All edited by me! Art credits: [`1`](https://x.com/ngt_926?s=20)[`2`](https://x.com/LLLLeg_ho?s=20)[`3`](https://x.com/uujubab?s=20)
