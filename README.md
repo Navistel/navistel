@@ -15,7 +15,8 @@
   [PT walk of fame](https://github.com/pt-walk-of-fame)
     [Title town](https://github.com/title-town)
     [Compliment town](https://github.com/compliment-town)
-    [Ship town](https://github.com/ship-town)</br>
+    [Ship town](https://github.com/ship-town)
+    [Ponytowns-rewards](https://github.com/Ponytowns-rewards)</br>
     I mightve missed some
   </details></br>
   
