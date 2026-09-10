@@ -20,9 +20,6 @@
     I mightve missed some
   </details></br>
 
-  @Fashlon
-  
-
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled115_20260907214447.png" width=300></br>
   
   All edited by me! Art credits: [`1`](https://x.com/ngt_926?s=20)[`2`](https://x.com/LLLLeg_ho?s=20)[`3`](https://x.com/uujubab?s=20)
