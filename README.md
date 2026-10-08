@@ -51,7 +51,7 @@
 <table>
 <tr width=400>
 <td width=50><img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234442-ezgif.com-remove-background.gif" align="left" width=50></td>
-<td width=300 align="center">
+<td width=200 align="center">
 
 ୨୧ ⏔⏔⏔♡⏔⏔⏔ ୨୧ <br>
 ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞ <br>
