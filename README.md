@@ -1,4 +1,5 @@
-<div align=center width=600>
+<body width=500>
+<div align=center>
   
   ![](https://komarev.com/ghpvc/?username=Ivanddal&color=blueviolet&style=flat&label=𓆩♡𓆪&abbreviated=true)</br>
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234847-ezgif.com-remove-background.gif" width=500></br>
@@ -60,3 +61,4 @@
   All edited by me! Art credits: [`1`](https://x.com/ngt_926?s=20)[`2`](https://x.com/LLLLeg_ho?s=20)[`3`](https://x.com/uujubab?s=20)
   
 </div>
+</body>
