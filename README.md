@@ -4,6 +4,8 @@
   <sub>``"So..can I?"``</sub><br>
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234847-ezgif.com-remove-background.gif" width=500></br>
   <sub>``"...I'm all yours."``</sub><br>
+
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled132_20261001123828.png" width=150> ||| <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled132_20261001123807.png" width=150> <br>
 ╭┈ • ┈┈┈┈┈┈┈┈┈┈ ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ┈┈┈┈┈┈┈┈┈┈ • ┈╮<br>
   <table>
     <tr width=400>
