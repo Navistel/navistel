@@ -13,7 +13,8 @@
         <td>
         <details>
           <summary> Sweethearts!</summary>
-          [Karina.](https://github.com/fashlon) 
+          
+  [Karina.](https://github.com/fashlon) 
           [Zai.](https://github.com/naibluver) 
           [Cal.](https://github.com/DASElN) 
           [Ven.](https://github.com/venzqs)
