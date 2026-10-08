@@ -2,11 +2,11 @@
 <div align=center>
   
   ![](https://komarev.com/ghpvc/?username=Ivanddal&color=blueviolet&style=flat&label=𓆩♡𓆪&abbreviated=true)</br>
-  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234847-ezgif.com-remove-background.gif" width=500></br>
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234847-ezgif.com-remove-background.gif" width=800></br>
 
   <table>
-    <tr width=500>
-      <tr width=500>
+    <tr width=600>
+      <tr width=600>
         <td>
         <details>
           <summary> Sweethearts!</summary>
@@ -34,7 +34,7 @@
         </details>
         </td>
       </tr>
-      <td width=500>
+      <td width=600>
     <details>
     <summary>Mentions!</summary>
     
@@ -49,16 +49,14 @@
     
   </table><br>
 
-  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234442-ezgif.com-remove-background.gif" align="left" width=100>
-    <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234258-ezgif.com-remove-background.gif" align="right" width=100>
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234442-ezgif.com-remove-background.gif" align="left" width=150>
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234258-ezgif.com-remove-background.gif" align="right" width=150>
     
-ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞ
-   ʚ[`Ata`](https://navistel.atabook.org/)ɞ
-   ʚ[`Click2x`](https://arab.org/click-to-help/palestine/)ɞ</br>
-ʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞ
-     ʚ[`2`](https://fluffle.cc/trulydancae)ɞ
+ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞ <br>
+ʚ[`Ata`](https://navistel.atabook.org/)ɞ <br>
+ʚ[`Click2x`](https://arab.org/click-to-help/palestine/)ɞ<br>
+ʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞ ʚ[`2`](https://fluffle.cc/trulydancae)ɞ
 
-  All edited by me! Art credits: [`1`](https://x.com/ngt_926?s=20)[`2`](https://x.com/LLLLeg_ho?s=20)[`3`](https://x.com/uujubab?s=20)
-  
+୨୧ ⏔⏔⏔♡⏔⏔⏔ ୨୧
 </div>
 </body>
