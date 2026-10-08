@@ -49,18 +49,14 @@
   </table><br>
 
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234442-ezgif.com-remove-background.gif" align="left" width=100>
-  
+    <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234258-ezgif.com-remove-background.gif" align="right" width=100>
+    
 ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞ
    ʚ[`Ata`](https://navistel.atabook.org/)ɞ
    ʚ[`Click2x`](https://arab.org/click-to-help/palestine/)ɞ</br>
 ʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞ
      ʚ[`2`](https://fluffle.cc/trulydancae)ɞ
-     
-  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234258-ezgif.com-remove-background.gif" align="right" width=100>
 
-
-  <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled115_20260907214447.png" width=300></br>
-  
   All edited by me! Art credits: [`1`](https://x.com/ngt_926?s=20)[`2`](https://x.com/LLLLeg_ho?s=20)[`3`](https://x.com/uujubab?s=20)
   
 </div>
