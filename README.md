@@ -17,7 +17,13 @@
           Zuha. 
           Naru. 
           Rae. 
-          Aven. 
+          Aven.
+          Jay.
+          Alois. 
+          Zoel.
+          Matt.
+          Azzy.
+          Qais.
           June. 
           Kuni. 
           Fayne. 
@@ -40,13 +46,17 @@
   </details></br> </td>
   </tr>
     
-  </table>
+  </table><br>
+
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234442-ezgif.com-remove-background.gif" align="left">
   
 ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞ
    ʚ[`Ata`](https://navistel.atabook.org/)ɞ
    ʚ[`Click2x`](https://arab.org/click-to-help/palestine/)ɞ</br>
 ʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞ
      ʚ[`2`](https://fluffle.cc/trulydancae)ɞ
+     
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234258-ezgif.com-remove-background.gif" align="right">
 
 
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled115_20260907214447.png" width=300></br>
