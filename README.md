@@ -4,10 +4,10 @@
   <sub>``"So..can I?"``</sub><br>
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234847-ezgif.com-remove-background.gif" width=500></br>
   <sub>``"...I'm all yours."``</sub><br>
-╭┈ • ┈┈┈┈┈┈┈┈┈┈┈ ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ┈┈┈┈┈┈┈┈┈┈┈ • ┈╮<br>
+╭┈ • ┈┈┈┈┈┈┈┈┈┈ ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ┈┈┈┈┈┈┈┈┈┈ • ┈╮<br>
   <table>
-    <tr width=500>
-      <tr width=500>
+    <tr width=400>
+      <tr width=400>
         <td>
         <details>
           <summary> Sweethearts!</summary>
@@ -35,7 +35,7 @@
         </details>
         </td>
       </tr>
-      <td width=600>
+      <td width=400>
     <details>
     <summary>Mentions!</summary>
     
@@ -49,8 +49,8 @@
   </tr>
 </table>
 <table>
-<tr width=500>
-<td width=100><img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234442-ezgif.com-remove-background.gif" align="left" width=100></td>
+<tr width=400>
+<td width=50><img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234442-ezgif.com-remove-background.gif" align="left" width=50></td>
 <td width=300 align="center">
 
 ୨୧ ⏔⏔⏔♡⏔⏔⏔ ୨୧ <br>
@@ -61,9 +61,9 @@
 ʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞ ʚ[`2`](https://fluffle.cc/trulydancae)ɞ <br>
 ୨୧ ⏔⏔⏔♡⏔⏔⏔ ୨୧
 </td>
-<td width=100><img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234258-ezgif.com-remove-background.gif" align="right" width=100></td>
+<td width=50><img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234258-ezgif.com-remove-background.gif" align="right" width=50></td>
 </tr>
     
   </table><br>
-  ╰┈•┈┈┈┈┈┈┈┈┈┈┈┈┈┈ ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ┈┈┈┈┈┈┈┈┈┈┈┈┈┈•┈╯ 
+  ╰┈•┈┈┈┈┈┈┈┈┈┈ ˗ˏˋ ꒰ ♡ ꒱ ˎˊ˗ ┈┈┈┈┈┈┈┈┈┈•┈╯ 
 </div>
