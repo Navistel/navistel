@@ -1,4 +1,4 @@
-<div align=center>
+<div align=center width=600>
   
   ![](https://komarev.com/ghpvc/?username=Ivanddal&color=blueviolet&style=flat&label=𓆩♡𓆪&abbreviated=true)</br>
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234847-ezgif.com-remove-background.gif" width=500></br>
