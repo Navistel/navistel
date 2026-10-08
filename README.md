@@ -13,27 +13,27 @@
         <td>
         <details>
           <summary> Sweethearts!</summary>
-          Karina. 
-          Zai. 
-          Cal. 
-          Ven. 
-          Alex. 
-          Zuha. 
-          Naru. 
-          Rae. 
-          Aven.
-          Jay.
-          Alois. 
-          Zoel.
-          Matt.
-          Azzy.
-          Qais.
-          June. 
-          Kuni. 
-          Fayne. 
-          Mei. 
-          Val.
-          Miles. 
+          [Karina.](https://github.com/fashlon) 
+          [Zai.](https://github.com/naibluver) 
+          [Cal.](https://github.com/DASElN) 
+          [Ven.](https://github.com/venzqs)
+          [Alex.](https://github.com/Al3excx) 
+          [Zuha.](https://github.com/Zuuha) 
+          [Naru.](https://github.com/NARUMlGEN) 
+          [Rae.](https://github.com/thefa1thful) 
+          [Aven.](https://github.com/xcr1s1s)
+          [Jay.](https://github.com/piechain)
+          [Alois.](https://github.com/ALOlS) 
+          [Zoel.](https://github.com/fluezoalen)
+          [Matt.](https://github.com/santafies)
+          [Azzy.](https://github.com/WiltedDemise)
+          [Qais.](https://github.com/qaisable)
+          [June.](https://github.com/reiningcloud) 
+          [Kuni.](https://github.com/constrz) 
+          [Fayne.](https://github.com/duxlucens) 
+          [Mei.](https://github.com/DearMeii) 
+          [Val.](https://github.com/WoundedRibbons)
+          [Miles.](https://github.com/out-llaw) 
         </details>
         </td>
       </tr>
