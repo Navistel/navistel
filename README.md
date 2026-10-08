@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align=center>
+  
+  ![](https://komarev.com/ghpvc/?username=Ivanddal&color=blueviolet&style=flat&label=𓆩♡𓆪&abbreviated=true)</br>
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234847-ezgif.com-remove-background.gif" width=500></br>
 
-<!--
-**Navistel/navistel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <table border="2" align="center">
+    <tr>  <details>
+    <summary>Mentions!</summary>
+    
+  [PT walk of fame](https://github.com/pt-walk-of-fame)
+    [Title town](https://github.com/title-town)
+    [Compliment town](https://github.com/compliment-town)
+    [Ship town](https://github.com/ship-town)
+    [Ponytowns-rewards](https://github.com/Ponytowns-rewards)</br>
+    I mightve missed some
+  </details></br>
+  </tr>
+    
+  </table>
+  
+ʚ[`Fluffle`](https://fluffle.cc/danhengpt)ɞ
+   ʚ[`Ata`](https://navistel.atabook.org/)ɞ
+   ʚ[`Click2x`](https://arab.org/click-to-help/palestine/)ɞ</br>
+ʚ[`1`](https://fluffle.cc/trulyhaikaveh)ɞ
+     ʚ[`2`](https://fluffle.cc/trulydancae)ɞ
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled115_20260907214447.png" width=300></br>
+  
+  All edited by me! Art credits: [`1`](https://x.com/ngt_926?s=20)[`2`](https://x.com/LLLLeg_ho?s=20)[`3`](https://x.com/uujubab?s=20)
+  
+</div>
