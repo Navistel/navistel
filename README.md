@@ -3,8 +3,32 @@
   ![](https://komarev.com/ghpvc/?username=Ivanddal&color=blueviolet&style=flat&label=𓆩♡𓆪&abbreviated=true)</br>
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20260929234847-ezgif.com-remove-background.gif" width=500></br>
 
-  <table border="2" align="center">
-    <tr>  <details>
+  <table>
+    <tr width=500>
+      <tr width=500>
+        <td>
+        <details>
+          <summary> Sweethearts!</summary>
+          Karina. 
+          Zai. 
+          Cal. 
+          Ven. 
+          Alex. 
+          Zuha. 
+          Naru. 
+          Rae. 
+          Aven. 
+          June. 
+          Kuni. 
+          Fayne. 
+          Mei. 
+          Val.
+          Miles. 
+        </details>
+        </td>
+      </tr>
+      <td width=500>
+    <details>
     <summary>Mentions!</summary>
     
   [PT walk of fame](https://github.com/pt-walk-of-fame)
@@ -13,7 +37,7 @@
     [Ship town](https://github.com/ship-town)
     [Ponytowns-rewards](https://github.com/Ponytowns-rewards)</br>
     I mightve missed some
-  </details></br>
+  </details></br> </td>
   </tr>
     
   </table>
