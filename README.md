@@ -33,7 +33,7 @@
           [Kuni.](https://github.com/constrz) 
           [Fayne.](https://github.com/duxlucens) 
           [Mei.](https://github.com/DearMeii) 
-          [Val.](https://github.com/WoundedRibbons)
+          [Val.](https://github.com/Mystreeted)
           [Miles.](https://github.com/out-llaw) 
         </details>
         </td>
