@@ -22,6 +22,7 @@
           [Zuha.](https://github.com/Zuuha) 
           [Naru.](https://github.com/NARUMlGEN) 
           [Rae.](https://github.com/thefa1thful) 
+          [Mir.](/github.com/irrationally-golden)
           [Aven.](https://github.com/xcr1s1s)
           [Jay.](https://github.com/piechain)
           [Alois.](https://github.com/ALOlS) 
