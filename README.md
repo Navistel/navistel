@@ -14,16 +14,16 @@
         <details>
           <summary> Sweethearts!</summary>
           
-  [Karina.](https://github.com/fashlon) 
+  [Karina.](https://github.com/fashlon)
+          [Aven.](https://github.com/xcr1s1s)
           [Zai.](https://github.com/naibluver) 
           [Cal.](https://github.com/DASElN) 
           [Ven.](https://github.com/venzqs)
+          [Rae.](https://github.com/thefa1thful)
           [Alex.](https://github.com/Al3excx) 
           [Zuha.](https://github.com/Zuuha) 
           [Naru.](https://github.com/NARUMlGEN) 
-          [Rae.](https://github.com/thefa1thful) 
           [Mir.](https://github.com/Irrationally-Golden)
-          [Aven.](https://github.com/xcr1s1s)
           [Jay.](https://github.com/piechain)
           [Alois.](https://github.com/ALOlS) 
           [Zoel.](https://github.com/fluezoalen)
