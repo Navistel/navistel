@@ -20,6 +20,7 @@
           [Cal.](https://github.com/DASElN) 
           [Ven.](https://github.com/venzqs)
           [Rae.](https://github.com/thefa1thful)
+          [Aku.](https://github.com/aku-romo)
           [Alex.](https://github.com/Al3excx) 
           [Zuha.](https://github.com/Zuuha) 
           [Naru.](https://github.com/NARUMlGEN) 
