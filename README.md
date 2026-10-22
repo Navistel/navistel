@@ -15,7 +15,7 @@
           <summary> Sweethearts!</summary>
           
   [Karina.](https://github.com/fashlon)
-          [Aven.](https://github.com/xcr1s1s)
+          [Aven.](https://github.com/veiledscholar)
           [Zai.](https://github.com/naibluver) 
           [Cal.](https://github.com/DASElN) 
           [Ven.](https://github.com/venzqs)
