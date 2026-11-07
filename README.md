@@ -34,7 +34,7 @@
     <sup>$\color{#ffd787}{\text{ㅤㅤㅤRblxns : }}$
       <a href="https://github.com/Dearmeii">Mei.</a>
       <a href="https://github.com/reiningcloud">June.</a>
-      <a href="https://github.com/refaella">Fayne.</a>
+      <a href="https://github.com/reffaella">Fayne.</a>
       <a href="https://github.com/constrz">Kuni.</a>
     </sup><br>
     <br>
