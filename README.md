@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align=center>
+  
+  ![](https://komarev.com/ghpvc/?username=Ivanddal&color=blue&style=flat&label=Codes&abbreviated=true)</br>
+</div>
 
-<!--
-**Navistel/navistel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107134411.png"><br>
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107131520.png" align="right" height=700><br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  Testing<br>
+  
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107135616.png" align="left" width=100>
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107135616.png" align="left" width=100>
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107135616.png" align="left" width=100>
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107134404.png">
