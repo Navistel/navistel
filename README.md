@@ -61,9 +61,9 @@
 
 <table>
 <tr>
-<td><img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107135616.png" align="left" width=120></td>
-<td><img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107135630.png" align="left" width=120></td>
-<td><img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107135643.png" align="left" width=120></td>
+<td><a href="https://fluffle.cc/danhengpt"><img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107135616.png" align="left" width=120></a></td>
+<td><a href="https://danhengpt.straw.page/"><img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107135630.png" align="left" width=120></a></td>
+<td><a href="https://navistel.atabook.org/"><img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107135643.png" align="left" width=120></a></td>
 </tr>
 </table><br>
 </div>
