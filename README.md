@@ -12,7 +12,9 @@
   $\color{#5cd2b5}{\text{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤNavi }} \color{#7dece4}{\text{ㅤㅤㅤou   }} \color{#f4ead7}{\text{ㅤㅤㅤXy}}$ <br>
   $\color{#5cd2b5}{\text{ㅤㅤㅤㅤㅤㅤ18  }} \color{#7dece4}{\text{ㅤㅤㅤHe/Any   }} \color{#f4ead7}{\text{ㅤㅤㅤT-masc + Apagender}}$ <br>
   ㅤㅤㅤㅤㅤㅤ<br>
-  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20261107184339-ezgif.com.gif" width=550><br> 
+  <div align="center">
+  <img src="https://file.garden/aZFgsf3ch2qR4q-s/lv_0_20261107184339-ezgif.com.gif" width=550><br>
+  </div>
   <Details>
     <Summary>$\color{#605033}{\text{ㅤㅤㅤSweethearts !! }}$</Summary>
     <sup>$\color{#5cd2b5}{\text{ㅤㅤㅤFam : }}$ 
