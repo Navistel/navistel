@@ -1,5 +1,5 @@
 <div align="center">
-    ㅤㅤㅤㅤㅤㅤㅤㅤㅤBest viewed on PC ━ 
+  <sup>  ㅤㅤㅤㅤㅤㅤㅤㅤㅤBest viewed on PC ━ </sup> 
       
   <img src="https://komarev.com/ghpvc/?username=Ivanddal&style=for-the-badge&label=Codes&color=605033"></br>
 </div>
