@@ -1,8 +1,7 @@
 <div align="center">
-
-<sup>$\color{##605033}{\text{ㅤㅤㅤㅤㅤㅤㅤㅤㅤBest viewed on PC ━ }}$
-  
-  ![](https://komarev.com/ghpvc/?username=Ivanddal&color=blue&style=flat&label=Codes&abbreviated=true)</br>
+    <sup>$\color{#605033}{\text{ㅤㅤㅤㅤㅤㅤㅤㅤㅤBest viewed on PC ━ }}$
+      
+  <img src="https://komarev.com/ghpvc/?username=Ivanddal&style=for-the-badge&label=Codes&color=605033"></br>
 </div>
 
   <img src="https://file.garden/aZFgsf3ch2qR4q-s/Untitled167_20261107185758.png"><br>
