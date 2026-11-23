@@ -29,7 +29,7 @@
       <a href="https://github.com/Zuuha">Zuha.</a>
            </sup><br>
     <sup>$\color{#7dece4}{\text{ㅤㅤㅤMHC : }}$ 
-      <a href="https://github.com/fluozoalen">Zoel.</a>
+      <a href="https://github.com/fluezoalen">Zoel.</a>
       <a href="https://github.com/santafies">Matt.</a>
       <a href="https://github.com/WiltedDemise">Azzy.</a>
       <a href="https://github.com/Qaisable">Qais.</a>
